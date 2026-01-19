@@ -1,2 +1,3 @@
-# Data-analysis
-Dépôt d’exercices en data analysis : exploration, nettoyage et visualisation de données dans un objectif d’apprentissage continu.
+# PYTHON
+
+Dépôt d’apprentissage en Python regroupant des exercices progressifs, des bases du langage jusqu’à des usages plus avancés, notamment l’analyse de données et la création de tableaux et visualisations dynamiques.
